@@ -1,0 +1,15 @@
+.todo-list {
+  padding-top: 50px;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.finished {
+  text-decoration: line-through;
+}
+
+.btn-outline-info {
+  margin-left: 10px;
+}
